@@ -40,3 +40,15 @@
     font-weight: 500;
     text-align: center;
   }
+
+  .viewAll {
+    color: var(--primary-color);
+    font-weight: 500;
+    transition: var(--transition);
+    text-decoration: none;
+  }
+
+  .viewAll:hover {
+    color: var(--primary-dark);
+    text-decoration: underline;
+  }
