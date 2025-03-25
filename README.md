@@ -1,2 +1,2 @@
 # Atividade: Componentização de Loja de Livros Online com React
-##
+### Foi feita toda a componentização da Loja de Livros Online acompanhada pelo GitHub Instrutor Felipe, a order da componetização foi da seguinte forma: header e footer sendo os primeiros por serem as extremidades do site e depois fui seguindo conforme a ordem dos elementos, sendo o banner, category, detach, launch e subscript.
